@@ -6,3 +6,10 @@
 .card {
     margin-top: 20px;
 }
+.footer {
+    margin: 20px 0; 
+    padding: 0; 
+    background-color: #eee; 
+    min-height: 50px; 
+    margin-bottom: -20px;
+}
