@@ -14,6 +14,13 @@
     text-align: center;
     margin-top: 20px;
 }
+.construction {
+    text-align: center;
+    background-color: yellow;
+    width: 100%;
+    height: 25%;
+
+}
 .footer {
     width: 100%;
     margin: 20px 0; 
