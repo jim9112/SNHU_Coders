@@ -5,3 +5,4 @@ Feel free to add to either this readme or the source code. If you do a pull requ
 
 ## Contributors
 * Nathan Burnham
+* Randy Wood
