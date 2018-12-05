@@ -44,6 +44,7 @@ const pythonVideos = [
     {card_title: 'SNHU Intro to Scripting - ATM Script', address: 'https://www.youtube.com/embed/UR7o14jgS5g', card_text: "This video demonstrates a practical use of functions to perform some simple bank transactions."},
     {card_title: 'SNHU Intro to Scripting - Function Basics', address: 'https://www.youtube.com/embed/Jfty6Uut_U4', card_text: "This video demonstrates the basics of defining and executing functions in Python"},
     {card_title: 'SNHU Intro to Scripting - Grocery List', address: 'https://www.youtube.com/embed/ZpNbFrMcqMo', card_text: "This is a demonstration of the grocery list script using the dictionary and list data type along with both loop types."},
+    {card_title: 'SNHU Intro to Scripting - Dictionary Basics', address: 'https://www.youtube.com/embed/xu6Sf1QAwLw', card_text: "This video demonstrates the basics of using the dictionary data type in Python."},
 ];
 for (i=0; i<pythonVideos.length; i++){
     newDiv(pythonVideos[i].card_title, pythonVideos[i].address, pythonVideos[i].card_text);
